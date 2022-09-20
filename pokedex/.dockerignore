@@ -38,4 +38,7 @@ lerna-debug.log*
 /mongo
 package-lock.json
 .env
-.env.prod
+
+dist/
+.gitignore
+.git/
